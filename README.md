@@ -9,17 +9,17 @@ Assignment submission for the Programming module of the Higher diploma in comput
 
 The components of the architecture are:
 
-# Component	Description
-## MenuController	
+### Component	Description
+#### MenuController	
 This class provides a console-based user interface to the application's feature set.
 
-## Gym API	
+#### Gym API	
 This class implements the application's 'business logic'.
 
-## Utility	
+#### Utility	
 Reusable parts of the 'business logic' are delegated to this class.
 
-## Data model	
+#### Data model	
 This contains classes based on the problem domain, e.g. Member, Trainer
  
 
