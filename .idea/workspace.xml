@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09b8f374-3f57-4751-b291-a348c7a903bd" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cktgpBwDbxppQlqq2R2mYu4BY4" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.splitter.proportion" value="0.14646906" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MenuController">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Assessment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assessment" />
+      <module name="Assignment3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Member" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Member" />
+      <module name="Assignment3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuController" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MenuController" />
+      <module name="Assignment3" />
+      <option name="VM_PARAMETERS" value="--add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang.reflect=ALL-UNNAMED --add-opens java.base/java.text=ALL-UNNAMED --add-opens java.desktop/java.awt.font=ALL-UNNAMED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GymAPITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GymAPITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GymUtilityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GymUtilityTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MemberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MenuController" />
+      <item itemvalue="Application.Assessment" />
+      <item itemvalue="Application.Member" />
+      <item itemvalue="JUnit.GymAPITest" />
+      <item itemvalue="JUnit.GymUtilityTest" />
+      <item itemvalue="JUnit.MemberTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GymAPITest" />
+        <item itemvalue="JUnit.GymUtilityTest" />
+        <item itemvalue="JUnit.MemberTest" />
+        <item itemvalue="Application.Member" />
+        <item itemvalue="Application.Assessment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09b8f374-3f57-4751-b291-a348c7a903bd" name="Default" comment="" />
+      <created>1524132451770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524132451770</updated>
+      <workItem from="1591084535743" duration="15404000" />
+      <workItem from="1591179176915" duration="11741000" />
+      <workItem from="1591257962331" duration="9350000" />
+      <workItem from="1591297512884" duration="632000" />
+      <workItem from="1591342969430" duration="129000" />
+      <workItem from="1591351708477" duration="17910000" />
+      <workItem from="1591384406971" duration="8937000" />
+      <workItem from="1591434212222" duration="22073000" />
+      <workItem from="1591474931144" duration="780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="25" key="#Project_Structure" timestamp="1591384832195">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="104" y="25" key="#Project_Structure/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591384832195" />
+    <state x="242" y="122" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591368588345">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="242" y="122" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591368588345" />
+    <state x="0" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591086965110">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591086965110" />
+    <state x="92" y="92" width="840" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1591441958745">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="92" y="92" width="840" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591441958745" />
+    <state x="317" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1591435217927">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="317" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591435217927" />
+    <state x="241" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591086884311">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="241" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591086884311" />
+    <state x="363" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591084541030">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="363" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591084541030" />
+    <state x="313" y="233" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591462315784">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="313" y="233" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591462315784" />
+    <state x="242" y="114" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1591470777011">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="242" y="114" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591470777011" />
+    <state x="218" y="108" key="FileChooserDialogImpl" timestamp="1591471720447">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="218" y="108" key="FileChooserDialogImpl/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591471720447" />
+    <state width="981" height="208" key="GridCell.Tab.0.bottom" timestamp="1591475717972">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="208" key="GridCell.Tab.0.bottom/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591475717972" />
+    <state width="1877" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591222977548" />
+    <state width="981" height="208" key="GridCell.Tab.0.center" timestamp="1591475717972">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="208" key="GridCell.Tab.0.center/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591475717972" />
+    <state width="1877" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591222977548" />
+    <state width="981" height="208" key="GridCell.Tab.0.left" timestamp="1591475717972">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="208" key="GridCell.Tab.0.left/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591475717972" />
+    <state width="1877" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591222977548" />
+    <state width="981" height="208" key="GridCell.Tab.0.right" timestamp="1591475717972">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="208" key="GridCell.Tab.0.right/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591475717972" />
+    <state width="1877" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591222977548" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1591085145067">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591085145067" />
+    <state x="220" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1591434211131">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="220" y="191" key="com.intellij.ide.util.TipDialog/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591434211131" />
+    <state x="276" y="96" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591380960345">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="276" y="96" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591380960345" />
+    <state x="254" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1591441992791">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="254" y="0" key="refactoring.ChangeSignatureDialog/0.0.1024.728/1024.0.1920.1040@0.0.1024.728" timestamp="1591441992791" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Person.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/PremiumMember.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

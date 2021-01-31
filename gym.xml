@@ -1,0 +1,46 @@
+<object-stream>
+  <list>
+    <StudentMember>
+      <name>Adelle McAteer</name>
+      <email>adelle@mcateer.com</email>
+      <address>1 Harbour View, Portsalon</address>
+      <gender>F</gender>
+      <assessmentHashMap>
+        <entry>
+          <string></string>
+          <Assessment>
+            <weight>0.0</weight>
+            <thigh>0.0</thigh>
+            <waist>0.0</waist>
+          </Assessment>
+        </entry>
+        <entry>
+          <string> 20/06/05</string>
+          <null/>
+        </entry>
+      </assessmentHashMap>
+      <height>1.65</height>
+      <startingWeight>65.0</startingWeight>
+      <collegeName>WIT</collegeName>
+    </StudentMember>
+    <PremiumMember>
+      <name>Bugs Bunny</name>
+      <email>bugs@bunny.com</email>
+      <address>1 Rabbit Hole Road</address>
+      <gender>M</gender>
+      <assessmentHashMap/>
+      <height>1.1</height>
+      <startingWeight>0.0</startingWeight>
+    </PremiumMember>
+  </list>
+  <list>
+    <Trainer>
+      <name>Peter Pan</name>
+      <email>peter@pan.com</email>
+      <address>1 Never Land, NeverLand</address>
+      <gender>M</gender>
+      <speciality>Gymnastics</speciality>
+    </Trainer>
+  </list>
+  <null/>
+</object-stream>
