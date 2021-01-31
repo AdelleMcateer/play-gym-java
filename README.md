@@ -3,8 +3,8 @@
 
 # Overview
 
-A console-based Gym Management application using Java.
-Assignment submission for the Programming module of the Higher diploma in computer science at Waterford Institute of Technology.
+-A console-based Gym Management application using Java.
+-Assignment submission for the Programming module of the Higher diploma in computer science at Waterford Institute of Technology.
 
 The components of the architecture are:
 
